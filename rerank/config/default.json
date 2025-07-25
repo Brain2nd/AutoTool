@@ -1,0 +1,8 @@
+{
+  "api_type": "jina",
+  "api_key": "YOUR_JINA_API_KEY_HERE",
+  "base_url": "https://api.jina.ai/v1/rerank",
+  "model": "jina-reranker-v2-base-multilingual",
+  "top_n": 3,
+  "return_documents": false
+}

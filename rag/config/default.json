@@ -1,0 +1,9 @@
+{
+  "api_type": "jina",
+  "api_key": "YOUR_JINA_API_KEY_HERE",
+  "base_url": "https://api.jina.ai/v1/embeddings",
+  "model": "jina-embeddings-v3",
+  "task": "text-matching",
+  "dimensions": 512,
+  "cache_dir": "C:\\Users\\NUC\\Desktop\\AutoOOIN\\tool\\rag\\cache"
+}

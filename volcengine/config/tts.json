@@ -1,0 +1,14 @@
+{
+    "appid": "",
+    "token": "",
+    "cluster": "volcano_tts",
+    "voice_type": "zh_male_M392_conversation_wvae_bigtts",
+    "encoding": "mp3",
+    "speed_ratio": 1.0,
+    "language": "zh",
+    "pitch_ratio": 1.0,
+    "volume_ratio": 1.0,
+    "silence_duration": 125,
+    "with_frontend": 1,
+    "pure_english_opt": 1
+}

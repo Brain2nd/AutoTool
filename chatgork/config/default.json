@@ -1,0 +1,17 @@
+{
+  "name": "default",
+  "api_type": "xai",
+  "api_key": "YOUR_XAI_API_KEY_HERE",
+  "base_url": "https://api.x.ai/v1",
+  "model": "grok-4-0709",
+  "temperature": 0.7,
+  "max_tokens": 3000,
+  "default_template": "business",
+  "postgres": {
+    "user": "YOUR_DATABASE_USER_HERE",
+    "password": "YOUR_DATABASE_PASSWORD_HERE",
+    "database": "YOUR_DATABASE_NAME_HERE",
+    "host": "YOUR_DATABASE_HOST_HERE",
+    "port": "YOUR_DATABASE_PORT_HERE"
+  }
+} 
